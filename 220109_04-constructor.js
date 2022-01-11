@@ -43,4 +43,6 @@ var lee = new Person('lee', 40, 40, 40 );
 console.log("kim.allsum()",kim.allsum());
 console.log("lee.allsum()",lee.allsum());
 
-
+//💪new생성자 함수(constructor)가 하는 일
+//  1.객체를 만든다.
+//  2.객체의 초기 상태를 정의한다.
