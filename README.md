@@ -34,3 +34,9 @@ new키워드를 이용하여 객체로 만들 때 같이 생성되는 객체는.
 **같은코드2**<br>
 `PersonPlus.prototype.__proto__ = Person.prototype;` <br>
 `PersonPlus.prototype = Object.creat(Person.prototype);` <br>
+
+---
+
+|:--:|:--:|
+|![boostcource_egoing](https://github.com/EGEG1212/boostcourse_JavaScript_Basics__egoing/blob/main/certificate_A20220112-648620%20(1).pdf)|
+![boostcource_egoing](https://github.com/EGEG1212/boostcourse_JavaScript_Basics__egoing/blob/main/certificate_A20220112-648620.pdf)|
